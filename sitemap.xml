@@ -18,4 +18,12 @@
 
   <!-- Adicione mais URLs dos seus posts aqui -->
 
+   <url>
+      <loc>https://seuusuario.github.io/about.html</loc>
+   </url>
+  
+   <url>
+      <loc>https://seuusuario.github.io/contact.html</loc>
+   </url>
+
 </urlset>
